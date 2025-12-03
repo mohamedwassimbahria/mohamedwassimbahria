@@ -86,7 +86,7 @@ Microservices • Eureka • Keycloak
 
 ---
 
-## 📊 Stats & Activity (masculine theme)
+## 📊 Stats & Activity 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamed-wassim-bahria&show_icons=true&theme=tokyonight&count_private=true" />
