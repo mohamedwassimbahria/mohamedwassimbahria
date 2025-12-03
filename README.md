@@ -1,37 +1,37 @@
 <p align="center">
-  <img src="https://i.imgur.com/JxJC1R1.gif" width="650" style="border-radius: 20px;" />
+  <img src="https://media.tenor.com/2uyENR6Ef2kAAAAC/coding.gif" width="650" style="border-radius: 20px;" />
 </p>
 
-<h1 align="center">🌸 Mohamed Wassim Bahria 🌸</h1>
+<h1 align="center">✨ Mohamed Wassim Bahria ✨</h1>
 <p align="center">
-  🌱 Software Engineer • Full-Stack Developer • AI Enthusiast  
+  💻 Software Engineer • Full-Stack Developer • AI Enthusiast  
   <br>
-  <i>“Creating peaceful code in a chaotic world.”</i>
+  <i>“Coding with precision, designing with calm.”</i>
 </p>
 
 ---
 
-## 🩵✨ About Me (Cozy Edition)
-Hi! I'm Wassim — a developer who loves:
+## 🧊 About Me (Cozy but Neutral)
+Hi! I'm Wassim — a developer passionate about:
 
-- 🌸 Building aesthetic, intelligent apps  
-- 💻 Full-Stack development (Angular & Spring Boot)  
-- 🤖 Creating AI-powered features  
-- 📚 Learning new technologies every day  
-- 🎀 Clean UI/UX with soft colors and simple design  
+- 🚀 Full-Stack development (Angular • Spring Boot)  
+- 🤖 Integrating AI into real apps  
+- 🧩 Building clean and scalable architectures  
+- 💼 Creating polished UI/UX interfaces  
+- 📘 Continuous learning  
 
-I enjoy transforming ideas into beautiful, functional systems.
+I love mixing **technical depth** with **good design**.
 
 ---
 
-## 🎀 Cute Tech Stack
+## 🧩 Tech Stack
 
 <p align="center">
   
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=java,ts,python&theme=light" />
   <br/>
-  
+
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=spring,angular,mongodb&theme=light" />
   <br/>
@@ -43,41 +43,41 @@ I enjoy transforming ideas into beautiful, functional systems.
 
 ---
 
-## 🎀 Anime Mood While Coding
+## 🎬 Anime Coding Vibes (only working GIFs)
 
 <p align="center">
-  <img src="https://i.imgur.com/9I6NRUm.gif" width="350" style="border-radius: 15px;" />
-  <img src="https://i.imgur.com/0YcX5QF.gif" width="350" style="border-radius: 15px;" />
+  <img src="https://media.tenor.com/whA6m2mpcPQAAAAC/anime-hacker.gif" width="350" style="border-radius: 15px;" />
+  <img src="https://media.tenor.com/_4YgA77ExHEAAAAC/hacking-hacker.gif" width="350" style="border-radius: 15px;" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/2p8rQpD.gif" width="600" style="border-radius: 20px;" />
+  <img src="https://media.tenor.com/4k78vjYFQJ0AAAAC/anime-coding.gif" width="600" style="border-radius: 20px;" />
 </p>
 
 ---
 
-## 🌸 Featured Projects (Aesthetic Cards)
+## 🚀 Featured Projects (Clean Cards)
 
 <table align="center">
 <tr>
 <td width="50%" align="center">
-  
-### 🌟 TimeForge
+
+### ⚡ TimeForge  
 AI task estimation • Angular 19 • Spring Boot  
 <br>
-<a href="https://github.com/mohamedwassimbahria/TimeForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim-bahria&repo=TimeForge&theme=rose_pine" />
+<a href="https://github.com/wassim-bahria/TimeForge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim-bahria&repo=TimeForge&theme=tokyonight" />
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-### 💫 FootballApp
+### ⚽ FootballApp  
 Microservices • Eureka • Keycloak  
 <br>
-<a href="https://github.com/mohamedwassimbahria/FootballApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim-bahria&repo=FootballApp&theme=rose_pine" />
+<a href="https://github.com/wassim-bahria/FootballApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim-bahria&repo=FootballApp&theme=tokyonight" />
 </a>
 
 </td>
@@ -86,33 +86,33 @@ Microservices • Eureka • Keycloak
 
 ---
 
-## 🧸 Soft Stats & Activity
+## 📊 Stats & Activity (masculine theme)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wassim-bahria&show_icons=true&theme=rose_pine&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wassim-bahria&show_icons=true&theme=tokyonight&count_private=true" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-bahria&layout=compact&theme=rose_pine" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-bahria&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🍡 Cozy Connect
+## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/mohamedwassimbahria">
-    <img src="https://img.shields.io/badge/GitHub-wassim--bahria-pink?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/wassim-bahria">
+    <img src="https://img.shields.io/badge/GitHub-Wassim--Bahria-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-soft_blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/txUSlYf.gif" width="600" style="border-radius: 20px;" />
+  <img src="https://media.tenor.com/YZpq4zG7HbwAAAAC/anime-night.gif" width="600" style="border-radius: 20px;" />
 </p>
 
 <p align="center">
-  <b>🌸 Thank you for visiting my cozy corner of GitHub 🌸</b>
+  <b>✨ Thanks for visiting my GitHub profile ✨</b>
 </p>
