@@ -67,8 +67,9 @@ Microservices • Eureka • Keycloak
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedwassimbahria&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedwassimbahria&layout=compact&theme=tokyonight" />
+  <!-- GitHub Stats -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedwassimbahria&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedwassimbahria&layout=compact&theme=radical" />
 </p>
 
 ---
