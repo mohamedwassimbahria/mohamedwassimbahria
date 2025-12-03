@@ -65,8 +65,8 @@ I love mixing **technical depth** with **good design**.
 ### ⚡ TimeForge  
 AI task estimation • Angular 19 • Spring Boot  
 <br>
-<a href="https://github.com/wassim-bahria/TimeForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim-bahria&repo=TimeForge&theme=tokyonight" />
+<a href="https://github.com/mohamedwassimbahria/TimeForge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-wassim-bahria&repo=TimeForge&theme=tokyonight" />
 </a>
 
 </td>
@@ -76,8 +76,8 @@ AI task estimation • Angular 19 • Spring Boot
 ### ⚽ FootballApp  
 Microservices • Eureka • Keycloak  
 <br>
-<a href="https://github.com/wassim-bahria/FootballApp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wassim-bahria&repo=FootballApp&theme=tokyonight" />
+<a href="https://github.com/mohamedwassimbahria/FootballApp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-wassim-bahria&repo=FootballApp&theme=tokyonight" />
 </a>
 
 </td>
@@ -89,9 +89,9 @@ Microservices • Eureka • Keycloak
 ## 📊 Stats & Activity (masculine theme)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wassim-bahria&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamed-wassim-bahria&show_icons=true&theme=tokyonight&count_private=true" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassim-bahria&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-wassim-bahria&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -99,8 +99,8 @@ Microservices • Eureka • Keycloak
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/wassim-bahria">
-    <img src="https://img.shields.io/badge/GitHub-Wassim--Bahria-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/mohamedwassimbahria">
+    <img src="https://img.shields.io/badge/GitHub-Mohamed-Wassim--Bahria-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
